@@ -1,7 +1,8 @@
-EZBind 🎮🖱️
+# EZBind 🎮🖱️
+
 EZBind es una herramienta web avanzada que permite crear, personalizar y exportar archivos .cfg para todos los juegos de la saga Counter-Strike (desde CS 1.6 hasta CS2), con una experiencia visual moderna, profesional y completamente interactiva. Todo funciona desde el navegador, sin necesidad de instalaciones ni backend.
 
-🌐 Sitio Web
+# 🌐 Sitio Web
 https://ezbind.netlify.app
 
 🧩 Características Principales
@@ -46,7 +47,7 @@ Sin dependencias externas
 
 Todo se ejecuta en el navegador
 
-📂 Estructura del proyecto
+# 📂 Estructura del proyecto
 index.html
 
 /css → Estilos principales
@@ -59,7 +60,7 @@ index.html
 
 README.md
 
-🛠️ Cómo usar
+# 🛠️ Cómo usar
 Abrí EZBind en tu navegador
 
 Elegí el juego que querés configurar
@@ -72,13 +73,13 @@ Exportá tu archivo .cfg con un solo clic
 
 ¡Copialo a tu carpeta del juego y jugá como un pro!
 
-🧑‍💻 Contribuir
+# 🧑‍💻 Contribuir
 ¿Tenés ideas nuevas, juegos compatibles o mejoras visuales?
 Cualquier colaboración es bienvenida. Podés hacer un fork del repositorio y abrir un pull request con tus cambios.
 
-📜 Licencia
+# 📜 Licencia
 MIT © FabriDev
 
-✨ Créditos
+# ✨ Créditos
 Hecho con 💻 y pasión gamer por Fabri Dev
 Diseñado para todos los jugadores que quieren llevar su config al siguiente nivel.
